@@ -1,0 +1,13 @@
+img{
+    width:200px;
+    height:200px;
+}
+
+h1{
+    display:flex;
+    justify-content:center;
+    font-family: 'Seaweed Script', cursive;
+}
+
+
+    
